@@ -1,0 +1,2 @@
+include ':layouttype', ':ClickButtons'
+rootProject.name='My Application'
